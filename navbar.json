@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Navbar pendiente",
+    "name": "Navbar Miro",
    "price": "7",
-    "image": "https://img.freepik.com/vector-premium/concepto-diseno-interfaz-usuario-movil-limpio-aplicacion-inicio-sesion-ventana-formulario-contrasena-vector-stock-ilustracion_100456-37.jpg",
+    "image": "https://miro.medium.com/v2/resize:fit:1400/1*0DX_gmhwwodzRI2uwZ68zw.png",
     "url": "https://pendiente por ahora",
     "urlDescarga": "https://pendiente por ahora"
   },
@@ -12,7 +12,7 @@
     "id": "2",
     "name": "Navbar dark",
     "price": "0",
-    "image": "https://img.freepik.com/premium-vector/colorful-ui-template-design-login-form_652575-895.jpg",
+    "image": "https://images.wondershare.com/filmora/article-images/2021/how-to-create-an-animated-sticky-navbar-02.JPG",
     "url": "https://pendiente por ahora",
     "urlDescarga": "https://pendiente por ahora"
   }
