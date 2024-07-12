@@ -1,9 +1,19 @@
 [
   {
     "id": 1,
-    "name": "Footer Flat Dark",
-    "price": "8",
-    "image": "https://images.unsplash.com/photo-1720459694799-3172c3999a60?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "url": "https://edgarbastidas.github.io/pdte"
+    "name": "Footer Gym Mania",
+   "price": "0",
+    "image": "https://i.pinimg.com/736x/c8/91/2c/c8912c98c2c3efcca1f771d3235f40f4.jpg",
+    "url": "https://pendiente por ahora"
+  },
+   
+  {
+    "id": "2",
+    "name": "Footer Croos Culture",
+    "price": "12",
+    "image": "https://images.surferseo.art/2bac3300-6ce0-4174-a46b-65523ad30e66.png",
+    "url": "https://pendiente por ahora",
+    "urlDescarga": "https://pendiente por ahora"
   }
+  
 ]
