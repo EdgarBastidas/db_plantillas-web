@@ -10,8 +10,24 @@
   {
     "id": "2",
     "name": "Login Free",
-    "price": "Gratis",
+    "price": "0",
     "image": "https://img.freepik.com/vector-premium/concepto-diseno-interfaz-usuario-movil-limpio-aplicacion-inicio-sesion-ventana-formulario-contrasena-vector-stock-ilustracion_100456-37.jpg",
+    "url": "https://pendiente por ahora"
+  },
+   
+  {
+    "id": "3",
+    "name": "Login ejempl002",
+    "price": "0",
+    "image": "https://img.freepik.com/premium-vector/colorful-ui-template-design-login-form_652575-895.jpg",
+    "url": "https://pendiente por ahora"
+  },
+
+  {
+    "id": "4",
+    "name": "Login ejempl0045",
+    "price": "10",
+    "image": "https://s3-alpha.figma.com/hub/file/956315678/2392746f-0851-4e1c-a395-3b79f6a20122-cover.png",
     "url": "https://pendiente por ahora"
   }
   
