@@ -1,9 +1,19 @@
 [
   {
     "id": 1,
-    "name": "GYMNSAIO FULL TEMPLATE",
-    "image": "https://images.unsplash.com/photo-1720459694799-3172c3999a60?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "url": "https://edgarbastidas.github.io/pte/"
-  }  
+    "name": "Web Site Divine",
+   "price": "77",
+    "image": "https://i.ytimg.com/vi/pvD1l2BmfrE/maxresdefault.jpg",
+    "url": "https://pendiente por ahora"
+  },
+   
+  {
+    "id": "2",
+    "name": "Web Site Gym TPF",
+    "price": "0",
+    "image": "https://i.pinimg.com/736x/cb/3e/a0/cb3ea09a36c7b448a97ee7cb929da435.jpg",
+    "url": "https://pendiente por ahora",
+    "urlDescarga": "https://pendiente por ahora"
+  }
   
 ]
